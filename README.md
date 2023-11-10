@@ -1,5 +1,5 @@
 # About Me:
-Estudante de Engenharia de Software na Universidade Federal do Ceará, com paixão por tecnologia e desenvolvimento. Possuo habilidades sólidas em linguagens de programação como Java e JavaScript, com experiência em desenvolvimento de aplicativos móveis usando React Native e manipulação de bancos de dados MySQL. Comprometido em aprimorar constantemente minhas habilidades técnicas, busco aprender e crescer na área de desenvolvimento de software. Além disso, estou dedicando esforços para aperfeiçoar meu inglês, reconhecendo sua importância no cenário global da tecnologia. Ansioso pela oportunidade de aplicar meu conhecimento e contribuir para projetos inovadores.
+Software Engineering student at the Federal University of Ceará, with a passion for technology and development. I have solid skills in programming languages such as Java and JavaScript, with experience in developing mobile applications using React Native and manipulating MySQL databases. Committed to constantly improving my technical skills, I seek to learn and grow in the area of software development. Furthermore, I am dedicating efforts to improving my English, recognizing its importance in the global technology scenario. Looking forward to the opportunity to apply my knowledge and contribute to innovative projects.
 
 
 ## 🌐 Socials:
