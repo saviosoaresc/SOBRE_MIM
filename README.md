@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 Estudante de Engenharia de Software na Universidade Federal do Ceará, com paixão por tecnologia e desenvolvimento. Possuo habilidades sólidas em linguagens de programação como Java e JavaScript, com experiência em desenvolvimento de aplicativos móveis usando React Native e manipulação de bancos de dados MySQL. Comprometido em aprimorar constantemente minhas habilidades técnicas, busco aprender e crescer na área de desenvolvimento de software. Além disso, estou dedicando esforços para aperfeiçoar meu inglês, reconhecendo sua importância no cenário global da tecnologia. Ansioso pela oportunidade de aplicar meu conhecimento e contribuir para projetos inovadores.
 
 
