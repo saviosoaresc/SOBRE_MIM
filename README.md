@@ -1,5 +1,5 @@
-# About Me:
-Software Engineering student at the Federal University of Ceará, with a passion for technology and development. I have solid skills in programming languages such as Java and JavaScript, with experience in developing mobile applications using React Native and manipulating MySQL databases. Committed to constantly improving my technical skills, I seek to learn and grow in the area of software development. Furthermore, I am dedicating efforts to improving my English, recognizing its importance in the global technology scenario. Looking forward to the opportunity to apply my knowledge and contribute to innovative projects.
+# A partir de 04/12/2023:
+Meu novo GitHub -> saviosoaresUFC (https://github.com/saviosoaresUFC)
 
 
 ## 🌐 Socials:
